@@ -19,3 +19,15 @@
 
 <h1 align="center">TECH STACK</h1>
 
+![Object_Oriented_Programming_using_Java](https://img.shields.io/badge/Object_Oriented_Programming_using_Java-%23F5010C.svg?style=for-the-badge&logo=Object_Oriented_Programming_using_Java&logoColor=white)
+![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![SOAP_UI](https://img.shields.io/badge/SOAP_UI-F2C811?style=for-the-badge&logo=SOAP_UI&logoColor=black)
+![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![VBScript](https://img.shields.io/badge/VB_Script-%233A95E3.svg?style=for-the-badge&logo=vbscript&logoColor=white)
