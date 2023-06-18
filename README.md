@@ -18,4 +18,4 @@
 
 
 <h1 align="center">TECH STACK</h1>
-![OnePlus](https://img.shields.io/badge/OnePlus-%23F5010C.svg?style=for-the-badge&logo=oneplus&logoColor=white)
+
