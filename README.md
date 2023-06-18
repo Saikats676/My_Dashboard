@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saikat Saha</h1>
 <h3 align="center">Software Test Engineer</h3>
 <p align="left">
-<a href="https://github.com/ryo-ma/github-profile-trophy">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img src="https://github-profile-trophy.vercel.app/?username=saikats676&row=2&column=4&theme=matrix" alt="saikatsaha" />
     </a>
 </p>
@@ -15,8 +15,6 @@
 - 🤔 I’m looking for help with ...
 - 📫 How to reach me: Feel free to connect with me via saikats676@gmail.com. I'm always open to discussions and collaborations.
 - ⚡ Fun fact: Detected 150+ defects.
-
-
 <h1 align="center">TECH STACK</h1>
 <h3 align="left">Languages and Tools:</h3>
 
@@ -34,11 +32,9 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![VBScript](https://img.shields.io/badge/VB_Script-%233A95E3.svg?style=for-the-badge&logo=vbscript&logoColor=white)
 ![Unix](https://img.shields.io/badge/Unix-%23121011.svg?style=for-the-badge&logo=unix&logoColor=white)
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
- <a href="https://linkedin.com/in/saikat-saha-00910a158/" target="blank">
+    <a href="https://linkedin.com/in/saikat-saha-00910a158/" target="blank">
         <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="saikatsaha" height="30" width="40" />
     </a>
     <a href="https://www.facebook.com/saikat.saha.3511" target="blank">
@@ -49,6 +45,8 @@
     </a>
 </p>
 
+<h3 align="center">SAIKAT'S GITHUB STATS</h3>
+<h3 align="left">Saikat's Github Stats</h3>
 <table align="center" border="0" cellpadding="0" cellspacing="0">
     <thead>
         <tr>
@@ -58,10 +56,15 @@
             <td>
                 <img align="center" src="https://github-readme-stats.vercel.app/api?username=saikats676&show_icons=true&locale=en&theme=tokyonight" alt="Saikat's Github Stats" />
             </td>
+        </tr>
+    </thead>
+</table>
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+    <thead>
+        <tr>
             <td>
                 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saikats676&theme=tokyonight" alt="saikatsaha" />
             </td>
         </tr>
     </thead>
 </table>
-
