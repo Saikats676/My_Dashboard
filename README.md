@@ -15,3 +15,7 @@
 - 🤔 I’m looking for help with ...
 - 📫 How to reach me: Feel free to connect with me via saikats676@gmail.com. I'm always open to discussions and collaborations.
 - ⚡ Fun fact: Detected 150+ defects.
+
+
+<h1 align="center">TECH STACK</h1>
+![OnePlus](https://img.shields.io/badge/OnePlus-%23F5010C.svg?style=for-the-badge&logo=oneplus&logoColor=white)
