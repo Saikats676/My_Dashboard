@@ -49,13 +49,19 @@
     </a>
 </p>
 
-<p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saikats676&show_icons=true&locale=en&layout=compact" alt="saikatsaha" />
-</p>
-<p>&nbsp;
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=saikats676&show_icons=true&locale=en" alt="saikatsaha" />
-</p>
-<p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saikats676&" alt="saikatsaha" />
-</p>
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+    <thead>
+        <tr>
+            <td>
+                <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saikats676&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="saikatsaha" />
+            </td>
+            <td>
+                <img align="center" src="https://github-readme-stats.vercel.app/api?username=saikats676&show_icons=true&locale=en&theme=tokyonight" alt="Saikat's Github Stats" />
+            </td>
+            <td>
+                <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saikats676&theme=tokyonight" alt="saikatsaha" />
+            </td>
+        </tr>
+    </thead>
+</table>
 
