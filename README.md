@@ -18,6 +18,7 @@
 
 
 <h1 align="center">TECH STACK</h1>
+<h3 align="left">Languages and Tools:</h3>
 
 ![Object_Oriented_Programming_using_Java](https://img.shields.io/badge/Object_Oriented_Programming_using_Java-%23F5010C.svg?style=for-the-badge&logo=Object_Oriented_Programming_using_Java&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
@@ -46,5 +47,15 @@
     <a href="https://www.instagram.com/saikats_98/" target="blank">
         <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="saikatsaha" height="30" width="40" />
     </a>
+</p>
+
+<p>
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saikats676&show_icons=true&locale=en&layout=compact" alt="saikatsaha" />
+</p>
+<p>&nbsp;
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=saikats676&show_icons=true&locale=en" alt="saikatsaha" />
+</p>
+<p>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saikats676&" alt="saikatsaha" />
 </p>
 
