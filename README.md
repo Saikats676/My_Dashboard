@@ -2,7 +2,7 @@
 <h3 align="center">Software Test Engineer</h3>
 <p align="left">
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=saikats676&row=3&column=3" alt="pramoddutta" />
+        <img src="https://github-profile-trophy.vercel.app/?username=saikats676&row=2&column=4" alt="pramoddutta" />
     </a>
 </p>
 
