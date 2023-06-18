@@ -33,3 +33,18 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![VBScript](https://img.shields.io/badge/VB_Script-%233A95E3.svg?style=for-the-badge&logo=vbscript&logoColor=white)
 ![Unix](https://img.shields.io/badge/Unix-%23121011.svg?style=for-the-badge&logo=unix&logoColor=white)
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+ <a href="https://linkedin.com/in/saikat-saha-00910a158/" target="blank">
+        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="saikatsaha" height="30" width="40" />
+    </a>
+    <a href="https://www.facebook.com/saikat.saha.3511" target="blank">
+        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="saikatsaha" height="30" width="40" />
+    </a>
+    <a href="https://www.instagram.com/saikats_98/" target="blank">
+        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="saikatsaha" height="30" width="40" />
+    </a>
+</p>
+
