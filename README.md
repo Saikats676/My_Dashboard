@@ -14,7 +14,7 @@
 - 👯 I’m looking to collaborate on projects related to API Testing, Selenium, and Automation Frameworks. Let's build robust and efficient testing solutions together!
 - 🤔 I’m looking for help with ...
 - 📫 How to reach me: Feel free to connect with me via saikats676@gmail.com. I'm always open to discussions and collaborations.
-- ⚡ Fun fact: Detected 150+ defects.
+- ⚡ Fun fact: Detected 200+ defects.
 <h1 align="center">TECH STACK</h1>
 <h3 align="left">Languages and Tools:</h3>
 
