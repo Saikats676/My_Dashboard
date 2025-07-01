@@ -10,18 +10,29 @@
 As an accomplished **Software Test Engineer** with **5 years of experience** in **Automation and Manual Testing**, my expertise lies in **developing scalable automation frameworks**, **identifying and resolving intricate technical issues**, and **ensuring flawless software performance**.
 
 ## 💻 Tech Stack & Skills
-- **Languages & Tools:** Java, Selenium WebDriver, TestNG, Maven, Git, GitHub, Jenkins, Postman
+- **Languages & Tools:** Java, Selenium WebDriver, TestNG, Maven, Git, GitHub, Jenkins, Postman, SOAPUI
 - **Frameworks:** Cucumber (BDD), Page Object Model (POM), Hybrid Frameworks
 - **Testing Areas:** UI Automation, API Testing, Regression, Sanity, Smoke Testing
 - **CI/CD Exposure:** Jenkins, GitHub Actions (basic level), Automation integration in DevOps pipeline
 
 
-- 🔭 I’m currently working as Software Test Engineer at Amdocs, ensuring the delivery of high-quality software solutions.
-- 🌱 I’m currently learning advanced techniques in test automation and exploring new tools to enhance my testing skills.
-- 👯 I’m looking to collaborate on projects related to API Testing, Selenium, and Automation Frameworks. Let's build robust and efficient testing solutions together!
-- 🤔 I’m looking for help with ...
-- 📫 How to reach me: Feel free to connect with me via saikats676@gmail.com. I'm always open to discussions and collaborations.
-- ⚡ Fun fact: Detected 200+ defects.
+## 🚀 What I'm Working On
+- Enhancing automation frameworks using **design patterns**
+- Deep diving into **BDD best practices** with **Cucumber**
+- Exploring **REST API testing** and increasing test efficiency
+
+## 🔍 Interests
+- Building and maintaining scalable automation frameworks
+- Learning new test tools and integrating them into CI/CD
+- Sharpening skills in version control, reporting, and test data management
+
+## 😄 Pronouns
+He/Him
+
+## ⚡ Fun Fact
+I believe test automation isn’t just about writing scripts — it's about ensuring confidence in every release and making life easier for the whole team!
+
+
 <h1 align="center">TECH STACK</h1>
 <h3 align="left">Languages and Tools:</h3>
 
@@ -41,13 +52,13 @@ As an accomplished **Software Test Engineer** with **5 years of experience** in 
 ![Unix](https://img.shields.io/badge/Unix-%23121011.svg?style=for-the-badge&logo=unix&logoColor=white)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://linkedin.com/in/saikat-saha-00910a158/" target="blank">
+    <a href="https://www.linkedin.com/in/saikat-saha-qa-engineer/" target="blank">
         <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="saikatsaha" height="30" width="40" />
     </a>
     <a href="https://www.facebook.com/saikat.saha.3511" target="blank">
         <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="saikatsaha" height="30" width="40" />
     </a>
-    <a href="https://www.instagram.com/saikats_98/" target="blank">
+    <a href="https://www.instagram.com/saikat.irl/" target="blank">
         <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="saikatsaha" height="30" width="40" />
     </a>
 </p>
@@ -74,3 +85,14 @@ As an accomplished **Software Test Engineer** with **5 years of experience** in 
         </tr>
     </thead>
 </table>
+
+
+
+
+<!--
+- 🔭 I’m currently working as Software Test Engineer at Amdocs, ensuring the delivery of high-quality software solutions.
+- 🌱 I’m currently learning advanced techniques in test automation and exploring new tools to enhance my testing skills.
+- 👯 I’m looking to collaborate on projects related to API Testing, Selenium, and Automation Frameworks. Let's build robust and efficient testing solutions together!
+- 🤔 I’m looking for help with ...
+- 📫 How to reach me: Feel free to connect with me via saikats676@gmail.com. I'm always open to discussions and collaborations.
+- ⚡ Fun fact: Detected 200+ defects. -->
