@@ -1,12 +1,19 @@
-<h1 align="center">Hi 👋, I'm Saikat Saha</h1>
-<h3 align="center">Software Test Engineer</h3>
+<h1 align="center">Hey there👋, I'm Saikat</h1>
+<!--<h3 align="center">Software Test Engineer</h3>
 <p align="left">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img src="https://github-profile-trophy.vercel.app/?username=saikats676&row=2&column=7&theme=matrix" alt="saikatsaha" />
     </a>
-</p>
+</p> -->
 
 
+As an accomplished **Software Test Engineer** with **5 years of experience** in **Automation and Manual Testing**, my expertise lies in **developing scalable automation frameworks**, **identifying and resolving intricate technical issues**, and **ensuring flawless software performance**.
+
+## 💻 Tech Stack & Skills
+- **Languages & Tools:** Java, Selenium WebDriver, TestNG, Maven, Git, GitHub, Jenkins, Postman
+- **Frameworks:** Cucumber (BDD), Page Object Model (POM), Hybrid Frameworks
+- **Testing Areas:** UI Automation, API Testing, Regression, Sanity, Smoke Testing
+- **CI/CD Exposure:** Jenkins, GitHub Actions (basic level), Automation integration in DevOps pipeline
 
 
 - 🔭 I’m currently working as Software Test Engineer at Amdocs, ensuring the delivery of high-quality software solutions.
