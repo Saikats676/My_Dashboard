@@ -20,6 +20,7 @@ As an accomplished **Software Test Engineer** with **5 years of experience** in 
 - Enhancing automation frameworks using **design patterns**
 - Deep diving into **BDD best practices** with **Cucumber**
 - Exploring **REST API testing** and increasing test efficiency
+- Right now, I’m focused on sharpening my test automation skills — building BDD-style test cases using Cucumber, exploring mobile automation via Appium, and implementing parallel test execution in real-world scenarios. I'm blending my strong manual testing foundation with automation to evolve as a hybrid QA engineer
 
 ## 🔍 Interests
 - Building and maintaining scalable automation frameworks
