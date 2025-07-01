@@ -6,8 +6,8 @@
     </a>
 </p> -->
 
-
-As an accomplished **Software Test Engineer** with **5 years of experience** in **Automation and Manual Testing**, my expertise lies in **developing scalable automation frameworks**, **identifying and resolving intricate technical issues**, and **ensuring flawless software performance**.
+A curious **Software Test Engineer** who believes every bug tells a story!
+With **over 5 years of experience** in **automation & manual testing**, **I love unraveling tricky defects**, **building frameworks from scratch**, and **empowering teams to ship with confidence**.
 
 ## 💻 Tech Stack & Skills
 - **Languages & Tools:** Java, Selenium WebDriver, TestNG, Maven, Git, GitHub, Jenkins, Postman, SOAPUI
@@ -17,10 +17,7 @@ As an accomplished **Software Test Engineer** with **5 years of experience** in 
 
 
 ## 🚀 What I'm Working On
-- Enhancing automation frameworks using **design patterns**
-- Deep diving into **BDD best practices** with **Cucumber**
-- Exploring **REST API testing** and increasing test efficiency
-- Right now, I’m focused on sharpening my test automation skills — building BDD-style test cases using Cucumber, exploring mobile automation via Appium, and implementing parallel test execution in real-world scenarios. I'm blending my strong manual testing foundation with automation to evolve as a hybrid QA engineer
+- Right now, **I’m focused on sharpening my test automation skills** — **building BDD-style test cases using Cucumber**, **exploring mobile automation via Appium**, and **implementing parallel test execution in real-world scenarios**. I'm blending my strong manual testing foundation with **automation to evolve as a hybrid QA engineer**.
 
 ## 🔍 Interests
 - Building and maintaining scalable automation frameworks
