@@ -31,10 +31,10 @@ He/Him
 I’ve reported over 500 bugs (and counting...)
 
 
-<h1 align="center">TECH STACK</h1>
-<!--<h3 align="left">Languages and Tools:</h3> -->
+<!--<h1 align="center">TECH STACK</h1>
+<h3 align="left">Languages and Tools:</h3> 
 
-![Object_Oriented_Programming_using_Java](https://img.shields.io/badge/Object_Oriented_Programming_using_Java-%23F5010C.svg?style=for-the-badge&logo=Object_Oriented_Programming_using_Java&logoColor=white)
+ - **Languages & Tools:**: ![Object_Oriented_Programming_using_Java](https://img.shields.io/badge/Object_Oriented_Programming_using_Java-%23F5010C.svg?style=for-the-badge&logo=Object_Oriented_Programming_using_Java&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![ChromeDriver](https://img.shields.io/badge/ChromeDriver-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -47,7 +47,7 @@ I’ve reported over 500 bugs (and counting...)
 ![Eclipse](https://img.shields.io/badge/Eclipse-9933CC?style=for-the-badge&logo=Eclipse&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![VBScript](https://img.shields.io/badge/VB_Script-%233A95E3.svg?style=for-the-badge&logo=vbscript&logoColor=white)
-![Unix](https://img.shields.io/badge/Unix-%23121011.svg?style=for-the-badge&logo=unix&logoColor=white)
+![Unix](https://img.shields.io/badge/Unix-%23121011.svg?style=for-the-badge&logo=unix&logoColor=white) -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://www.linkedin.com/in/saikat-saha-qa-engineer/" target="blank">
