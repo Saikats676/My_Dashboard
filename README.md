@@ -28,7 +28,7 @@ With **over 5 years of experience** in **automation & manual testing**, **I love
 He/Him
 
 ## ⚡ Fun Fact
-I believe test automation isn’t just about writing scripts — it's about ensuring confidence in every release and making life easier for the whole team!
+I’ve reported over 500 bugs (and counting...)
 
 
 <h1 align="center">TECH STACK</h1>
