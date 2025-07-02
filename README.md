@@ -32,7 +32,7 @@ I’ve reported over 500 bugs (and counting...)
 
 
 <h1 align="center">TECH STACK</h1>
-<h3 align="left">Languages and Tools:</h3>
+<!--<h3 align="left">Languages and Tools:</h3> -->
 
 ![Object_Oriented_Programming_using_Java](https://img.shields.io/badge/Object_Oriented_Programming_using_Java-%23F5010C.svg?style=for-the-badge&logo=Object_Oriented_Programming_using_Java&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
