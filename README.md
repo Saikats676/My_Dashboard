@@ -10,9 +10,9 @@ A curious **Software Test Engineer** who believes every bug tells a story!
 With **over 5 years of experience** in **automation & manual testing**, **I love unraveling tricky defects**, **building frameworks from scratch**, and **empowering teams to ship with confidence**.
 
 ## 💻 Tech Stack & Skills
-- **Languages & Tools:** Java, Selenium WebDriver, TestNG, Maven, Git, GitHub, Jenkins, Postman, SOAPUI
-- **Frameworks:** Cucumber (BDD), Page Object Model (POM), Hybrid Frameworks
-- **Testing Areas:** UI Automation, API Testing, Regression, Sanity, Smoke Testing
+- **Languages & Tools:** Java, Selenium WebDriver, Appium, Postman, SOAPUI, Git, GitHub, GitLab
+- **Frameworks:** TestNG, Maven, Cucumber (BDD), Page Object Model (POM), Hybrid Frameworks
+- **Testing Areas:** UI and API Automation, Mobile Automation(Android & iOS), API Testing, Sanity, UAT, Regression
 - **CI/CD Exposure:** Jenkins, GitHub Actions (basic level), Automation integration in DevOps pipeline
 
 
@@ -20,9 +20,11 @@ With **over 5 years of experience** in **automation & manual testing**, **I love
 - Right now, **I’m focused on sharpening my test automation skills** — **building BDD-style test cases using Cucumber**, **exploring mobile automation via Appium**, and **implementing parallel test execution in real-world scenarios**. I'm blending my strong manual testing foundation with **automation to evolve as a hybrid QA engineer**.
 
 ## 🔍 Interests
-- Building and maintaining scalable automation frameworks
-- Learning new test tools and integrating them into CI/CD
-- Sharpening skills in version control, reporting, and test data management
+- 🧰 Building and maintaining scalable automation frameworks
+- 🚀 Learning new test tools and integrating them into CI/CD
+- 😎 Sharpening skills in version control, reporting, and test data management
+- 🧠 Continuous learning and interview preparation 
+- 🎯 A tester who enjoys solving real bugs, not just spotting typos
 
 ## 😄 Pronouns
 He/Him
