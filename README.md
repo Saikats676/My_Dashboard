@@ -81,7 +81,7 @@ I’ve reported over 500 bugs (and counting...)
     <thead>
         <tr>
             <td>
-                <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saikats676&theme=tokyonight" alt="saikatsaha" />
+                <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=saikats676&theme=tokyonight" alt="saikatsaha" />
             </td>
         </tr>
     </thead>
