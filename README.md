@@ -90,7 +90,7 @@ I’ve reported over 500 bugs (and counting...)
 
 
 
-<!--
+<!-- // COMMENTED OUT SECTION //
 - 🔭 I’m currently working as Software Test Engineer at Amdocs, ensuring the delivery of high-quality software solutions.
 - 🌱 I’m currently learning advanced techniques in test automation and exploring new tools to enhance my testing skills.
 - 👯 I’m looking to collaborate on projects related to API Testing, Selenium, and Automation Frameworks. Let's build robust and efficient testing solutions together!
