@@ -1,4 +1,5 @@
 <h1 align="center">Hey there👋, I'm Saikat</h1>
+<h2 align="center">🎯 A tester who enjoys solving real bugs, not just spotting typos</h2>
 <!--<h3 align="center">Software Test Engineer</h3>
 <p align="left">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -20,11 +21,11 @@ With **over 5 years of experience** in **automation & manual testing**, **I love
 - Right now, **I’m focused on sharpening my test automation skills** — **building BDD-style test cases using Cucumber**, **exploring mobile automation via Appium**, and **implementing parallel test execution in real-world scenarios**. I'm blending my strong manual testing foundation with **automation to evolve as a hybrid QA engineer**.
 
 ## 🔍 Interests
-- 🧰 Building and maintaining scalable automation frameworks
-- 🚀 Learning new test tools and integrating them into CI/CD
-- 😎 Sharpening skills in version control, reporting, and test data management
-- 🧠 Continuous learning and interview preparation 
-- 🎯 A tester who enjoys solving real bugs, not just spotting typos
+- 🧰 Building and maintaining scalable automation frameworks.
+- 🚀 Learning new test tools and integrating them into CI/CD.
+- 🧠 Continuous learning and interview preparation.
+- ✈️ Loves exploring new places and capturing random moments.
+- 🔫 Enjoys testing software by day, and testing reflexes in Call of Duty or Counter-Strike by night.
 
 ## 😄 Pronouns
 He/Him
